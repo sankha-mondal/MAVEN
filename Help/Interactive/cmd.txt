@@ -1,0 +1,5 @@
+maven-archetype-quickstart
+
+//  Run :  java -cp TestProject1-1.0-SNAPSHOT.jar;C:\Users\HP\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar com.myCompany.App
+
+Run and get Output: java -cp TestProject1-1.0-SNAPSHOT.jar com.myCompany.App

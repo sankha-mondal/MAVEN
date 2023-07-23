@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.myCompany -DartifactId=TestProject4 -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4
